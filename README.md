@@ -1,3 +1,4 @@
+<img width="1545" height="1999" alt="Battery Box" src="https://github.com/user-attachments/assets/c8103ac8-acbf-491d-8627-2c438f63105b" />
 # AeroForge-AF-RAW001-Storm-
 Autonomous Off-Grid Airspace Verification &amp; Environmental Monitoring Sentinel Grid
 # AeroForge AF-RAW001 "Storm"
