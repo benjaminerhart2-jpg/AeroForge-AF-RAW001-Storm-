@@ -15,8 +15,5 @@ AeroForge AF-RAW001 "Storm" is an ultra-rugged, 100% off-grid atmospheric monito
 - **Automated Climate Grid:** 12V Dual Relay Board managing an internal 100W PTC Ceramic Fan Heater (Winter Override) and twin Noctua 40mm brushless exhaust fans (Summer Thermal Release).
 - **Multi-Hazard Array:** GPIO-connected MQ-2 Smoke/Gas Sniffer, DHT22 Ambient Temp/Humidity Core, BMP280 Barometric Pressure Sensor, and an external roof-mounted Anemometer (Wind Speed Indicator).
 
-## 🛡️ The 10-Step Operational Protocol Logic
-1. DETECT 🔭 -> 2. QUICK LOOK 👁️ -> 3. IDENTIFY 📡 -> 4. VERIFY 🧠 -> 5. CLOSE OBSERVATION 🛰️ -> 6. INDEPENDENT CONFIRMATION 🌎 -> 7. DEEP STUDY 🔬 -> 8. CLASSIFY 🟢🟡🟠🔴 -> 9. CONTACT / COORDINATION 📡 -> 10. THREAT ASSESSMENT ⚠️
-
 ---
 *© 2026 AeroForge Public Infrastructure Systems. Developed by Benjamin.*
