@@ -9,7 +9,7 @@ Autonomous Off-Grid Airspace Verification &amp; Environmental Monitoring Sentine
 AeroForge AF-AFS001 "Storm" is an ultra-rugged, 100% off-grid atmospheric monitoring and advanced anomaly warning core. Engineered to withstand the harshest elements of the Pacific Northwest, "Storm" operates completely independently of local Wi-Fi networks or external electrical grids. Reporting comprehensive sensor data every 2 seconds via low-frequency LoRa radio waves to an indoor battery-powered terminal, the system continuously monitors regional airspace telemetry, tracks active wildfire smoke vectors, logs severe coastal storm pressures, and utilizes dual 360-degree external optical camera arrays to track unexplained aerial phenomena.
 
 ## 📦 System Inventory Configuration (Updated w/ Co-Founder Vector)
-- **Computing Brain:** Raspberry Pi 5 (8GB LPDDR4X RAM) mounted on custom 66mm PETG standoff plates.
+- **Computing Brain:** Raspberry Pi 5 (8GB LPDDR4X RAM) mounted on custom 66mm ASA standoff plates.
 - **Power Core:** ECO-WORTHY 12V 100Ah LiFePO4 Battery with Low-Temp Protection & Bluetooth.
 - **Signal Interceptor:** RTL-SDR Blog V4 USB Dongle with external 1090 MHz tracking mast line.
 - **Automated Climate Grid:** 12V Dual Relay Board managing an internal 100W PTC Ceramic Fan Heater and twin Noctua 40mm brushless exhaust fans.
